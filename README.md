@@ -22,6 +22,7 @@ cd yourproject
 2. Создайте виртуальное окружение (опционально):
 
 python -m venv venv
+
 source venv/bin/activate      # Linux / Mac
 
 venv\Scripts\activate         # Windows
